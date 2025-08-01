@@ -6,3 +6,4 @@
 | `Sparse_Autoencoder.ipynb` | Sparse autoencoder on MNIST | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tony-Ale/Notebooks/blob/main/Sparse_Autoencoder.ipynb) |
 | `Variational_Autoencoder.ipynb` | Variational autoencoder on MNIST | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tony-Ale/Notebooks/blob/main/Variational_Autoencoder.ipynb) |
 | `RNN.ipynb` | Character-level name classification using an RNN | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tony-Ale/Notebooks/blob/main/RNN.ipynb) |
+| `GRU.ipynb` | Digit classification using a GRU | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tony-Ale/Notebooks/blob/main/GRU.ipynb) |
