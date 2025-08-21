@@ -8,3 +8,4 @@
 | `RNN.ipynb` | Character-level name classification using an RNN | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tony-Ale/Notebooks/blob/main/RNN.ipynb) |
 | `GRU.ipynb` | Digit classification using a GRU | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tony-Ale/Notebooks/blob/main/GRU.ipynb) |
 | `LSTM.ipynb` | Digit classification using a LSTM | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tony-Ale/Notebooks/blob/main/LSTM.ipynb) |
+| `Word2Vec_Hierarchical_Softmax.ipynb` | Word2Vec Hierarchical Softmax | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tony-Ale/Notebooks/blob/main/Word2Vec_Hierarchical_Softmax.ipynb) |
