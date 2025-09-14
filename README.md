@@ -10,3 +10,4 @@
 | `LSTM.ipynb` | Digit classification using a LSTM | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tony-Ale/Notebooks/blob/main/LSTM.ipynb) |
 | `Word2Vec_Hierarchical_Softmax.ipynb` | Word2Vec Hierarchical Softmax | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tony-Ale/Notebooks/blob/main/Word2Vec_Hierarchical_Softmax.ipynb) |
 | `Word2Vec_Negative_Sampling.ipynb` | Word2Vec Negative Sampling | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tony-Ale/Notebooks/blob/main/Word2Vec_Negative_Sampling.ipynb) |
+| `Bahdanau_Attention.ipynb` | Bahdanau Attention | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tony-Ale/Notebooks/blob/main/Bahdanau_Attentionipynb) |
